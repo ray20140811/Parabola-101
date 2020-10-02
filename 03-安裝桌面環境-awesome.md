@@ -27,3 +27,13 @@ Parabola GNU/Linux-Libre 安裝桌面環境
 啟動桌面
 ----------
     [root@Parabola ~]# startx
+    
+啟動terminal
+----------
+    Super[Windows Key] + R: lxterminal 
+
+啟動emacs
+----------
+    Super[Windows Key] + R: emacs 
+
+    
