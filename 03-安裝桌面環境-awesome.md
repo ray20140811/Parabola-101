@@ -3,6 +3,7 @@ Parabola GNU/Linux-Libre 安裝桌面環境
 =======================
 本文參考
 [Arch Linux Wiki：awesome)](https://wiki.archlinux.org/index.php/Awesome_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E5%AE%89%E8%A3%85)
+[Arch Linux User:How to install& configuring Awesome](https://www.archlinuxuser.com/2013/05/how-to-install-configuring-awesome.html)
 
 安裝xorg
 ----------
@@ -13,7 +14,7 @@ Parabola GNU/Linux-Libre 安裝桌面環境
 ----------
     [root@Parabola ~]# pacman -S xorg-xinit
 
-安裝lxde
+安裝awesome
 ----------
     [root@Parabola ~]# pacman -S awesome
 
@@ -36,4 +37,11 @@ Parabola GNU/Linux-Libre 安裝桌面環境
 ----------
     Super[Windows Key] + R: emacs 
 
+awesome default terminal: xterm
+----------
+安裝xterm就可以用Menu開啟terminal
     
+    [root@Parabola ~]# pacman -S xterm
+ 
+    
+
