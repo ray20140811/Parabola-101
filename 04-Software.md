@@ -53,4 +53,10 @@ git
 * git
 
   [root@Parabola ~]# pacman -S git
+
+arduino IDE
+-----------
+
+  [root@Parabola ~]# pacman -S arduino
+  [root@Parabola ~]# pacman -S arduino-avr-core
     
